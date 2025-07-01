@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GoDaddy GitHub Repositories App
 
 ## 🧪 Overview
@@ -23,3 +24,7 @@ npm start
 - Add pagination
 - Fetch full list of languages per repo
 - Better error handling UI
+=======
+# godaddy
+Test
+>>>>>>> 76efaeda9eebb47a0031f6548edf445fbe5b89a9
