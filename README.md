@@ -23,5 +23,4 @@ npx vitest run
 - React Router DOM (routing)
 - TailwindCSS (styling)
 - React Testing Library + Jest (testing)
-=======
 
