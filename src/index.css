@@ -1,0 +1,8 @@
+/* Import Tailwind's pre-built CSS if not using a build process */
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css";
+
+body {
+  /* Use Tailwind classes directly in your HTML instead of @apply if not using a build process */
+  background-color: #fff;
+  color: #1a202c;
+}
